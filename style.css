@@ -55,7 +55,7 @@ body {
     justify-content: center;
     align-items: center;
 }
-/* Footer styles */
+
 footer {
     position: absolute;
     width: 136px;
@@ -79,7 +79,7 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
-/* Launch text styles */
+
 .launch-text {
     width: 440px;
     height: 29px;
